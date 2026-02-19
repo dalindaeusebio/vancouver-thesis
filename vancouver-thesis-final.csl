@@ -15,9 +15,7 @@
     <summary>A style for some Elsevier journals, resembles Vancouver style</summary>
     <updated>2026-02-19T18:04:34+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-  </info>
-
-  <!-- AUTORES (EXATAMENTE COMO TINHAS) -->
+ </info>
   <macro name="author">
     <names variable="author">
       <name initialize-with="" delimiter=", " delimiter-precedes-last="always" name-as-sort-order="all" sort-separator=" "/>
